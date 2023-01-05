@@ -3,7 +3,7 @@ programa
 	funcao inicio ()
 	{
 		//EXERCICIO 1-A
-	real numero1, numero2, SOMA, SUBTRACAO, MULTIPLICACAO, DIVISAO 
+		real numero1, numero2, SOMA, SUBTRACAO, MULTIPLICACAO, DIVISAO 
 	
 		escreva ("DIGITE O PRIMEIRO NUMERO:")
 		leia(numero1)
